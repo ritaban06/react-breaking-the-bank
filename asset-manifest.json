@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-breaking-the-bank/static/css/main.799e85e5.css",
+    "main.js": "/react-breaking-the-bank/static/js/main.8ac11f32.js",
+    "static/js/453.1a632a22.chunk.js": "/react-breaking-the-bank/static/js/453.1a632a22.chunk.js",
+    "index.html": "/react-breaking-the-bank/index.html",
+    "main.799e85e5.css.map": "/react-breaking-the-bank/static/css/main.799e85e5.css.map",
+    "main.8ac11f32.js.map": "/react-breaking-the-bank/static/js/main.8ac11f32.js.map",
+    "453.1a632a22.chunk.js.map": "/react-breaking-the-bank/static/js/453.1a632a22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.8ac11f32.js"
+  ]
+}
